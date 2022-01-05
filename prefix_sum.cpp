@@ -4,6 +4,7 @@ using namespace std;
 //find the prefix array of the given array
 // Time -> O(N)
 // Space -> O(N)
+//NEW LINE HAS BEEN ADDED
 void prefixSum(vector<int>&vec,vector<int>&prefix){
     int sum = 0;
     for(int i = 0; i < vec.size(); i++){
