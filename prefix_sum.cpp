@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//find the prefix array of the given array
+//find the prefix array of the given Arrays
 // Time -> O(N)
 // Space -> O(N)
 //NEW LINE HAS BEEN ADDED
